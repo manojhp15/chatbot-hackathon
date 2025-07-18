@@ -1,0 +1,118 @@
+Find a restaurant
+What restaurants are there
+Suggest a place to eat
+Where can I get food
+Im hungry find me a restaurant
+Looking for a place to dine
+Whats for dinner
+I need a restaurant recommendation
+Tell me about restaurants
+Show me restaurant options
+Find {cuisine} restaurants
+I want {cuisine} food
+Where can I get {cuisine}
+Show me {cuisine} places
+Recommend a {cuisine} restaurant
+Looking for {cuisine}
+Im craving {cuisine}
+Any {cuisine} spots
+Whats a good {cuisine} restaurant
+I fancy some {cuisine}
+Find restaurants in {place}
+Whats good in {place}
+Restaurants near {place}
+Show me places to eat in {place}
+Any restaurants open in {place}
+Where can I eat around {place}
+What restaurants are in {place}
+Looking for a restaurant around {place}
+Suggest a place in {place}
+Whats a popular restaurant in {place}
+Find {cost} restaurants
+Im looking for a {cost} place
+Suggest something {cost}
+Show me {cost} restaurants
+Recommend an {cost} eatery
+I want to find a {cost} restaurant
+What are some {cost} options
+Any {cost} spots open
+Find me a {cost} place to eat
+I prefer a {cost} restaurant
+Find {cuisine} restaurants in {place}
+I want {cuisine} food near {place}
+Show me {cuisine} places in {place}
+Recommend a {cuisine} restaurant around {place}
+Any {cuisine} spots in {place}
+Where can I get {cuisine} in {place}
+What {cuisine} restaurants are in {place}
+Looking for {cuisine} in {place}
+Suggest a {cuisine} place in {place}
+Find {place} {cuisine} restaurants
+Find {cost} {cuisine} restaurants
+Im looking for {cuisine} thats {cost}
+Suggest a {cost} {cuisine} place
+Show me {cost} {cuisine} options
+Recommend an {cost} {cuisine} restaurant
+I want {cost} {cuisine}
+Whats a good {cost} {cuisine} restaurant
+Any {cost} {cuisine} spots?
+Find me a {cost} {cuisine} place to eat
+I prefer {cost} {cuisine}
+Find {cost} restaurants in {place}
+Suggest a {cost} place in {place}
+I want to find an {cost} restaurant in {place} 
+Show me {cost} options in {place}
+Recommend a {cost} eatery near {place}
+What are some {cost} restaurants in {place}
+Any {cost} spots open in {place}?
+Find me a {cost} place to eat in {place}
+I prefer a {cost} restaurant in {place}
+Where can I get {cost} food in {place}
+Find {cost} {cuisine} restaurants in {place}
+Im looking for a {cost} {cuisine} place in {place}
+Suggest an {cost} {cuisine} restaurant near {place}
+Where can I get {cost} {cuisine} in {place}
+Show me {cost} {cuisine} options around {place}
+Recommend an {cost} {cuisine} eatery in {place}
+I want to find an {cost} {cuisine} restaurant in {place}
+Whats a good {cost} {cuisine} restaurant in {place}
+Any {cost} {cuisine} spots open in {place}
+Find me a {cost} {cuisine} place to eat in {place}
+Tell me about {restaurant}
+What are the hours for {restaurant}
+Is {restaurant} open
+Whats the address of {restaurant}
+Whats the phone number for {restaurant}
+How are the reviews for {restaurant}
+Show me the menu for {restaurant} (if you support menu display)
+Can you give me details for {restaurant}
+Whats the website for {restaurant}?
+Is {restaurant} good? (might lead to reviews)
+Intent: OrderFromRestaurant (User wants to order from a specific restaurant)
+I want to order from {restaurant}
+Start an order with {restaurant}
+Can I order from {restaurant}
+Id like to place an order at {restaurant}
+Begin an order from {restaurant}
+Order take-out from {restaurant}
+Intent: MakeReservation (User wants to book a table at a specific restaurant)
+Make a reservation at {restaurant}
+Book a table at {restaurant}
+Can I make a reservation at {restaurant}
+Id like to reserve a table at {restaurant}
+Book me a spot at {restaurant}
+I want to make a booking at {restaurant}
+I am looking for {cuisine} that is {cost}
+What is a good {cost} {cuisine} restaurant
+Any {cost} {cuisine} spots
+Give me {cost} {cuisine} recommendations
+Where can I find {cost} {cuisine} food
+Show me only {cost} {cuisine} places
+I am on a {cost} budget for {cuisine}
+I want to find an {cost} restaurant in {place}
+Any {cost} spots open in {place}
+Give me {cost} recommendations in {place}
+I am looking for a {cost} {cuisine} place in {place}
+What is a good {cost} {cuisine} restaurant in {place}
+Give me {cost} {cuisine} recommendations in {place}
+Suggest a good place for lunch
